@@ -8,6 +8,7 @@ public class Sample {
 		System.out.println("New Line Updated : 1");
 		System.out.println("New Line Updated : 3");
 		System.out.println("New Line Updated : 4");
+		System.out.println("Newly Added");
 
 	}
 
