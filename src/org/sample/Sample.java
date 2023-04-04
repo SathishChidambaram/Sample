@@ -7,6 +7,8 @@ public class Sample {
 		System.out.println("Told by Veni AKka");
 		System.out.println("New Line Updated : 1");
 		System.out.println("New Line Updated : 2");
+		System.out.println("New Line Updated : 5");
+		System.out.println("New Line Updated : 6");
 
 	}
 
